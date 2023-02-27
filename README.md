@@ -6,7 +6,8 @@ Functions:
 2) Sort emails by (email address or content into specific folders)
 
 Pre-requisites:
-1) Login to email on your outlook desktop program
+1) pip install -m pywin32
+2) Login to email on your outlook desktop program
 
 Steps to use programs:
 1) Enter your e-mails
