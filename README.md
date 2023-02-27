@@ -1,5 +1,5 @@
 # Email-Sorter
-Allows you to create folders and sorts your emails into folders
+Allows you to create folders and sorts your emails in your inbox into folders
 
 Functions:
 1) Create Folders
